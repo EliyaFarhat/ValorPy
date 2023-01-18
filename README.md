@@ -1,2 +1,2 @@
 # ValorPy
-Valorant REST API library. Made for easier access and use of Valorant's REST API
+Valorpy is a Python library for Valorant's/RIOT Games API. Valorpy makes accessing their API fast and easy (assuming you have a valid API key).
